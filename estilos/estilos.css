@@ -388,4 +388,7 @@ from{transform: rotateY(360deg)}
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
   }}
-  
+  .carousel-inner img {height: 60vh;
+object-fit: cover;}
+.card img {height: 30vh;
+object-fit: cover;}
